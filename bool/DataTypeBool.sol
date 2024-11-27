@@ -5,3 +5,4 @@ contract BoolExample{
     bool public IsTrue = true;
     bool public IsFalse;
 }
+// notir pola re dhore fel
