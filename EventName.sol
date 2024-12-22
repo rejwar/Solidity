@@ -1,0 +1,1 @@
+event EventName(parameters)
